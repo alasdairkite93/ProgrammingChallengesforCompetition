@@ -1,0 +1,16 @@
+C:\Users\user\Documents\Visual Studio 2019\Experiments\Iterations and lists\Iterations and lists\bin\Debug\net5.0\Iterations and lists.exe
+C:\Users\user\Documents\Visual Studio 2019\Experiments\Iterations and lists\Iterations and lists\bin\Debug\net5.0\Iterations and lists.deps.json
+C:\Users\user\Documents\Visual Studio 2019\Experiments\Iterations and lists\Iterations and lists\bin\Debug\net5.0\Iterations and lists.runtimeconfig.json
+C:\Users\user\Documents\Visual Studio 2019\Experiments\Iterations and lists\Iterations and lists\bin\Debug\net5.0\Iterations and lists.runtimeconfig.dev.json
+C:\Users\user\Documents\Visual Studio 2019\Experiments\Iterations and lists\Iterations and lists\bin\Debug\net5.0\Iterations and lists.dll
+C:\Users\user\Documents\Visual Studio 2019\Experiments\Iterations and lists\Iterations and lists\bin\Debug\net5.0\ref\Iterations and lists.dll
+C:\Users\user\Documents\Visual Studio 2019\Experiments\Iterations and lists\Iterations and lists\bin\Debug\net5.0\Iterations and lists.pdb
+C:\Users\user\Documents\Visual Studio 2019\Experiments\Iterations and lists\Iterations and lists\obj\Debug\net5.0\Iterations and lists.csprojAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2019\Experiments\Iterations and lists\Iterations and lists\obj\Debug\net5.0\Iterations and lists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Visual Studio 2019\Experiments\Iterations and lists\Iterations and lists\obj\Debug\net5.0\Iterations and lists.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Visual Studio 2019\Experiments\Iterations and lists\Iterations and lists\obj\Debug\net5.0\Iterations and lists.AssemblyInfo.cs
+C:\Users\user\Documents\Visual Studio 2019\Experiments\Iterations and lists\Iterations and lists\obj\Debug\net5.0\Iterations and lists.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Visual Studio 2019\Experiments\Iterations and lists\Iterations and lists\obj\Debug\net5.0\Iterations and lists.dll
+C:\Users\user\Documents\Visual Studio 2019\Experiments\Iterations and lists\Iterations and lists\obj\Debug\net5.0\ref\Iterations and lists.dll
+C:\Users\user\Documents\Visual Studio 2019\Experiments\Iterations and lists\Iterations and lists\obj\Debug\net5.0\Iterations and lists.pdb
+C:\Users\user\Documents\Visual Studio 2019\Experiments\Iterations and lists\Iterations and lists\obj\Debug\net5.0\Iterations and lists.genruntimeconfig.cache
